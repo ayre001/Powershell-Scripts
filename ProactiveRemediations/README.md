@@ -4,7 +4,7 @@ This folder contains PowerShell scripts related to proactive remediation tasks i
 
 ## Scripts
 
-Each subfolder is a standalone proactive remediation task and contains the following:
+Each subfolder is a standalone proactive remediation task that contains the following:
 
 - **Detect.ps1**: Script to detect an issue to remediate.
 - **Remediate.ps1**: Script to remediate the issue.
