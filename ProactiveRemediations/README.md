@@ -1,8 +1,10 @@
 # Proactive Remediation Scripts
 
-This folder contains PowerShell scripts related to proactive remediation tasks in Intune. Each subfolder contains the following:
+This folder contains PowerShell scripts related to proactive remediation tasks in Intune. 
 
 ## Scripts
+
+Each subfolder is a standalone proactive remedation task and contains the following:
 
 - **Detect.ps1**: Script to detect an issue to remediate.
 - **Remediate.ps1**: Script to remediate the issue.
