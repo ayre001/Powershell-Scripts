@@ -17,4 +17,4 @@ This repository is licensed under the [MIT License](./LICENSE).
 
 ## Contact
 
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/damian.ayres/) if you have any questions or suggestions.
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/damianayres/) if you have any questions or suggestions.
