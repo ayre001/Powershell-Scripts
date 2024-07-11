@@ -24,3 +24,6 @@ try {
     # Exit the script with an error code
     exit 1
 }
+
+Stop-Transcript
+exit 0
