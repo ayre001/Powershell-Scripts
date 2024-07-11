@@ -5,7 +5,7 @@ Welcome to my collection of PowerShell scripts! This repository houses various s
 ## Categories
 
 - [Proactive Remediations](./ProactiveRemediations)
-- [App Packages]("./App Packages")
+- [App Packages](./App-Packages)
 - [Miscellaneous](./Miscellaneous)
 
 ## How to Use
